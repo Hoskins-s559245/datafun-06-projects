@@ -1,9 +1,9 @@
 # Exploring Earthquake data from the USGS
 
-## Student Name: Ash Hoskins,#S559245 <br />
-## Course: CSIS 44-609 - Data Analytics Fundamentals <br />
-## Professor Denise Case <br />
-## Domain: Geospatial Data Module 6 Project Date: 2/20/2023<br />
+### Student Name: Ash Hoskins,#S559245 <br />
+### Course: CSIS 44-609 - Data Analytics Fundamentals <br />
+### Professor Denise Case <br />
+### Domain: Geospatial Data Module 6 Project Date: 2/20/2023<br />
 
 
 ## Description
