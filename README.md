@@ -1,4 +1,4 @@
-# Project Title
+# Exploring Earthquake data from the USGS
 
 ## Student Name: Ash Hoskins,#S559245 <br />
 ## Course: CSIS 44-609 - Data Analytics Fundamentals <br />
